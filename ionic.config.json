@@ -1,0 +1,7 @@
+{
+  "name": "2023-recreio-da-juventude",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
